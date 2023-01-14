@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=4.1.1
+Type=Application
+Terminal=false
+Exec=clawsmail
+Name=Claws-Mail
+Icon=${SNAP}/meta/gui/clawsmail.png
